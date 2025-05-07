@@ -1,9 +1,13 @@
+This pull request adds LumE USD (LUSD) to the Solana Token List.
 
-## Deprecated -- all PRs will be closed.
+**Token Info:**
+- Token Name: LumE USD
+- Symbol: LUSD
+- Address: HjHgtmRntsg3wU4aED7PfQ6oFq4XbmMrLjmRAkG5LumE
+- Decimals: 8
+- Logo: [IPFS Link](https://gateway.pinata.cloud/ipfs/bafybeifqn76mz2ctuzludo6uv4v5wm76zjc6oinfg7ez2sqpuk5ig6rzaa)
+- Telegram: https://t.me/LumeUSD
+- Twitter: https://x.com/usdlume
+- Website: https://github.com/LumeUSD
 
-This has been replaced by Jupiter Verify, our V3 token list system. You no longer need to submit applications. Instead, tokens with a good organic score and community support(measured by smart likes) will be discovered naturally and verified.
-
-To get your community to submit smart likes, go to the token page of your token and like it.
-- Example for SOL token, replace the mint address with yours: https://jup.ag/tokens/So11111111111111111111111111111111111111112
-
-Just a reminder: Verification is our way of helping users find the correct token at the right mint address, and is not an endorsement of any project.
+Please approve this listing. Thank you!
